@@ -10,7 +10,7 @@ public class Elevator{
   private double maxCap;
   // maxCap stores the maximum weight an elevator can hold (in kilograms)
   private final int floors = 10;
-  // you can't change the number of floors the SLA building has
+  // you can't change the number of floors the building has
   private String name;
   public ArrayList<Passenger> passengers = new ArrayList<Passenger>();
   
